@@ -1,4 +1,4 @@
 # Goose
 
 w
-w
+ww
